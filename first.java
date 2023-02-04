@@ -1,4 +1,4 @@
-# donu
+# donus
 public class SumOfNumbers1  
 {  
 public static void main(String args[])   
